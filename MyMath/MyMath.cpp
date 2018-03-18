@@ -1,8 +1,7 @@
 /*
 A simple library for math functions.
 
-Christopher Lum
-lum@uw.edu
+uwafsl@outlook.com
 
 Version History
 03/17/18: Created
