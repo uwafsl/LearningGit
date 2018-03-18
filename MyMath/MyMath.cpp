@@ -15,3 +15,11 @@ int Multiply(int a, int b)
 {
 	return(a*b);
 }
+
+/*
+A new feature
+*/
+int NewFeature(double x, double y)
+{
+	return 2 * (x + y);
+}
