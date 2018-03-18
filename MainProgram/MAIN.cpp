@@ -12,9 +12,12 @@ int main(void)
 	//Use an internal library
 	int a = 3;
 	int b = 4;
-	int c = Add(a, b);
 
-	cout << "Calling Add from MyMath.cpp" << endl;
-	cout << a << " + " << b << " = " << c << endl;
+	cout << "MyMath > Add" << endl;
+	cout << a << " + " << b << " = " << Add(a, b) << endl;
+
+	cout << "MyMath > Multiply" << endl;
+	cout << a << "^" << b << " = " << Multiply(a, b) << endl;
+
 	return(0);
 }

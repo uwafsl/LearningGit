@@ -8,5 +8,6 @@
 #define GUARD_MyMath_h
 
 int Add(int a, int b);
+int Multiply(int a, int b);
 
 #endif
