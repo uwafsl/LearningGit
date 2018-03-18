@@ -1,5 +1,8 @@
 #include "MyMath.h"
 
+/*
+Add two integers
+*/
 int Add(int a, int b)
 {
 	return (a + b);
