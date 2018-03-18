@@ -1,3 +1,14 @@
+/*
+A simple library for math functions.
+
+Christopher Lum
+lum@uw.edu
+
+Version History
+03/17/18: Created
+03/18/18: Updated
+*/
+
 #include "MyMath.h"
 
 /*

@@ -1,3 +1,14 @@
+/*
+A simple program used for demonstration purposes.
+
+Christopher Lum
+lum@uw.edu
+
+Version History
+03/17/18: Created
+03/18/18: Updated
+*/
+
 #include <iostream>
 
 #include "MyMath.h"
@@ -18,6 +29,9 @@ int main(void)
 
 	cout << "MyMath > Multiply" << endl;
 	cout << a << "^" << b << " = " << Multiply(a, b) << endl;
+
+	cout << "MyMath > NewFeature" << endl;
+	cout << a << "^" << b << " = " << NewFeature((double)a, (double)b) << endl;
 
 	return(0);
 }

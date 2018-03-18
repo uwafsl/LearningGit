@@ -1,8 +1,13 @@
-// MyMath.h: Define some custom math functions
-//
-// Christopher Lum
-// lum@uw.edu
-////////////////////////////////////////////////
+/*
+A simple program used for demonstration purposes.
+
+Christopher Lum
+lum@uw.edu
+
+Version History
+03/17/18: Created
+03/18/18: Updated
+*/
 
 #ifndef GUARD_MyMath_h
 #define GUARD_MyMath_h
