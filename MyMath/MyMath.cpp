@@ -33,3 +33,12 @@ int Subtract(double x, double y)
 {
 	return x - y;
 }
+
+/*
+Divide two values
+*/
+int Divide(double x, double y)
+{
+	return x/y;
+}
+

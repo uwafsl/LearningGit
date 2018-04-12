@@ -15,5 +15,6 @@ int Add(int a, int b);
 int Multiply(int a, int b);
 
 int Subtract(double x, double y);
+int Divide(double x, double y);
 
 #endif
