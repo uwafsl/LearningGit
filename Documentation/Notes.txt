@@ -1,1 +1,3 @@
 These are some notes about the project added by Chris Lum on 04/12/18.
+
+Here is another line added later.
