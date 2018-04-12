@@ -27,9 +27,9 @@ int Multiply(int a, int b)
 }
 
 /*
-A new feature
+Subtract two values
 */
-int NewFeature(double x, double y)
+int Subtract(double x, double y)
 {
-	return 2 * (x + y);
+	return x - y;
 }
