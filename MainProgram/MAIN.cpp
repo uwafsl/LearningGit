@@ -30,7 +30,7 @@ int main(void)
 	cout << a << "^" << b << " = " << Multiply(a, b) << endl;
 
 	cout << "MyMath > Subtract" << endl;
-	cout << a << "^" << b << " = " << Subtract((double)a, (double)b) << endl;
+	cout << a << "-" << b << " = " << Subtract((double)a, (double)b) << endl;
 
 	return(0);
 }
