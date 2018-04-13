@@ -27,7 +27,7 @@ int main(void)
 	cout << a << " + " << b << " = " << Add(a, b) << endl;
 
 	cout << "MyMath > Multiply" << endl;
-	cout << a << "^" << b << " = " << Multiply(a, b) << endl;
+	cout << a << "*" << b << " = " << Multiply(a, b) << endl;
 
 	cout << "MyMath > NewFeature" << endl;
 	cout << a << "^" << b << " = " << NewFeature((double)a, (double)b) << endl;
